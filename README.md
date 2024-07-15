@@ -7,11 +7,13 @@ Ecommercefull - Prueba Tecnica
 
 Utilizando PHP debes realizar un pequeño desarrollo con su API.
 
--Deberás crear acorde a la documentación dos usuarios de test, uno para utilizar como
+
+- Deberás crear acorde a la documentación dos usuarios de test, uno para utilizar como
 vendedor y otro para utilizar como comprador.
 
--Luego debes publicar algunos productos con el usuario vendedor.
--Con el usuario comprador, realizarás algunas compras de esos productos.
+
+- Luego debes publicar algunos productos con el usuario vendedor.
+- Con el usuario comprador, realizarás algunas compras de esos productos.
 
 El desarrollo deberá cumplir los siguientes items:
 - Listado de productos del usuario vendedor.
