@@ -29,7 +29,8 @@ Proceso:
 1. Levantar proyecto con PHP (en este caso Laravel) en un hosting, para obtener una URL con https
 2. Enviar a URL, datos de aplicación de ML
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a4e9476f-9dc2-4285-8a21-2e8a25c6e1f0/efe8abc5-1ad0-4027-85cf-1c034d1c4171/Untitled.png)
+![image](https://github.com/user-attachments/assets/8262cef6-fdd0-4559-9c08-ebaba1e7c425)
+
 
 URL:
 
