@@ -1,0 +1,21 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use App\Models\Product;
+
+class Order extends Model
+{
+    use HasFactory;
+
+    protected $fillable = [
+         'product_id','title',  'stock', 'currency', 'prize'
+    ];
+
+    public function product()
+    {
+        return $this->belongsTo(Product::class);
+    }
+}
