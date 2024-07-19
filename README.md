@@ -31,5 +31,5 @@ Aplicación de Mercado Libre
 
 ![image](https://github.com/user-attachments/assets/8262cef6-fdd0-4559-9c08-ebaba1e7c425)
 
-# Diagrama de funcionalidad
+# Diagrama de Funcionalidad
 ![image](https://github.com/user-attachments/assets/dca31ed5-3903-4d9e-92bc-c3564528c8cf)
